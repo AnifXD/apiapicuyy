@@ -60,8 +60,13 @@
           "name": "YouTube",
           "desc": "Video search",
           "path": "/search/youtube?q="
+        },
+        {
+          "name": "TikTok",
+          "desc": "TikTok video search",
+          "path": "/search/tiktok?q="
         }
       ]
     }
   ]
-}
+        }
