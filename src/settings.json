@@ -1,11 +1,11 @@
 {
-  "name": "Rynn Api's",
-  "version": "Rynn UI",
+  "name": "Anif Api's!",
+  "version": "FREEDOM",
   "description": "Simple and Easy-to-Use API Documentation",
   "header": {
     "status": "Online!",
     "imageSrc": [
-      "https://media4.giphy.com/media/l0Iy33dWjmywkCnNS/giphy.gif?cid=6c09b952p3mt40j1mgznfi9rwwtccbjl7mtc2kvfugymeinr&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"
+      "https://media1.tenor.com/m/4ukQekDbHBcAAAAd/lake-windy.gif"
     ],
     "imageSize": {
       "mobile": "80%",
@@ -14,7 +14,7 @@
     }
   },
   "apiSettings": {
-    "creator": "Rynn"
+    "creator": "anifch"
   },
   "links": [
     {
@@ -23,7 +23,7 @@
     },
     {
       "name": "Contact Me",
-      "url": "https://wa.me/6285173370004"
+      "url": "https://wa.me/6285137876177"
     }
   ],
   "categories": [
@@ -63,7 +63,7 @@
         },
         {
           "name": "TikTok",
-          "desc": "TikTok video search",
+          "desc": "ERROR 404",
           "path": "/search/tiktok?q="
         }
       ]
