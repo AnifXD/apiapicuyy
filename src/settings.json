@@ -62,11 +62,16 @@
           "path": "/search/youtube?q="
         },
         {
-          "name": "TikTok",
-          "desc": "ERROR 404",
-          "path": "/search/tiktok?q="
+          "name": "Apple Music Search",
+          "desc": "Search songs on Apple Music",
+          "path": "/search/apple-music?q="
+        },
+        {
+          "name": "Apple Music Download",
+          "desc": "Download songs from Apple Music",
+          "path": "/download/apple-music?url="
         }
       ]
     }
   ]
-        }
+}
